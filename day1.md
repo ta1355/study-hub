@@ -121,6 +121,8 @@ Clear(CompareList)
 
 React의 라우터 이동과 유사
 
+앞에는 이동할 화면, 뒤에는 이팩트(없으면 ScreenTransition.None )
+
 예:
 
 ```
